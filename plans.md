@@ -1,10 +1,10 @@
-#TODOLIST For the vocation
+# TODOLIST For the vocation
 
-##每周工作计划
+## 每周工作计划
 
 - [ ] 能把每周所学熟练掌握
 
-##每日工作计划
+## 每日工作计划
 - [ ] 背50个单词
 - [ ] 听听力半小时
 - [ ] 复习c语言知识点
